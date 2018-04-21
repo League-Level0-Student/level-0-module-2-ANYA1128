@@ -12,6 +12,8 @@ import javax.sound.sampled.Clip;
 import javax.swing.JOptionPane;
 
 public class AnimalFarm {
+public static void main(String[] args) {
+	
 
 AnimalFarm() {
 	/*
@@ -59,4 +61,4 @@ public static void main(String[] args) {
 }
 
 }
-
+}

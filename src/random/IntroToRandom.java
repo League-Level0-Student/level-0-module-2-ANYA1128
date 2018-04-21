@@ -15,13 +15,13 @@ public class IntroToRandom {
 	       Random gen = new Random();
 	       
 		//	 use .nextInt() to get a random number
-		   r=gen.nextInt(100);
+		   r=gen.nextInt(302)-222;
 		
 
 		//4. Limit the random number between 0 and 100
 
 		//5. Limit the random number between 25 and 75. Hint: ((highest value - lowest value)+1) + lowest value
-
+		  
 		//6. Challenge: Limit the random number between -222 and 88
 
 		//1. Print out the value of r
